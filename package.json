@@ -9,8 +9,11 @@
     "deploy": "yarn build && arweave deploy-dir dist --key-file arweave-wallet.json"
   },
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^0.2.3",
+    "ethers": "^5.6.8",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "wagmi": "^0.4.10"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
