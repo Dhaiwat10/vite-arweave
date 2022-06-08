@@ -2,7 +2,7 @@
 
 A Vite app pre-configured to be deployed to Arweave.
 
-Current permanently deployed at https://arweave.net/dKg3YalV9NlHrlCwhteF1aB_UQMEkncwCI2qRDOkBxg
+Current permanently deployed at https://arweave.net/KHiQfBXoKfvD81n_lbhZl05GYHg2BAWxuwep_mClsf4
 
 ## Todo
 
