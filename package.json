@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "yarn build && arweave deploy-dir dist --key-file arweave-wallet.json"
+    "deploy": "yarn build && arweave deploy-dir dist --key-file wallet.json"
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "^0.2.3",
